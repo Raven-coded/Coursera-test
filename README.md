@@ -38,3 +38,5 @@ To enable this application to run, the project's VM Arguments must be changed.
 
 ![alt text](https://github.com/Raven-coded/Coursera-test/blob/master/imgs/C4.jpg)
 
+<img src="imgs\C2.JPG" style="zoom:80%;" />
+
