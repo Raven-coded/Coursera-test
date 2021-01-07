@@ -30,7 +30,7 @@ To enable this application to run, the project's VM Arguments must be changed.
 
 - Select the Arguments tab and paste `--module-path \src\Tools\javafx-sdk-15.0.1\lib --add-modules javafx.controls,javafx.fxml` in the *VM Arguments* text box.
 
-  <img src="imgs\c3.JPG" style="zoom:80%;" />
+  <img src="Images\screen3.JPG" style="zoom:80%;" />
 
 - Also make sure that this check box is ***un-ticked.*** 
 
