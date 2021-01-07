@@ -34,7 +34,7 @@ To enable this application to run, the project's VM Arguments must be changed.
 
 - Also make sure that this check box is ***un-ticked.*** 
 
-  <img src="imgs\c4.JPG" style="zoom:80%;" />
+  <img src="imgs\C4.JPG" style="zoom:80%;" />
 
 ![alt text](https://github.com/Raven-coded/Coursera-test/blob/master/imgs/C4.jpg)
 
