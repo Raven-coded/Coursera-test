@@ -36,5 +36,5 @@ To enable this application to run, the project's VM Arguments must be changed.
 
   <img src="imgs\c4.JPG" style="zoom:80%;" />
 
-![alt text](\imgs\C1.jpg)
+![alt text](https://github.com/Raven-coded/Coursera-test/blob/master/imgs/C4.jpg)
 
